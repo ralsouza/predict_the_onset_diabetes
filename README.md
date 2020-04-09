@@ -8,5 +8,8 @@ Source: https://www.kaggle.com/uciml/pima-indians-diabetes-database/data
 ## Workflow Overview
 *Define Business Problem* > *Data Preparation* > *Algorithm Selection* > *Model Training* > *Test and Model Evaluation*
 
+## Training Overview
+![](/images/BCA76185-D6FD-4AA4-8D4E-F484684D517E.png)
+
 ## Goal
 >= 70% of accurancy of the model.
