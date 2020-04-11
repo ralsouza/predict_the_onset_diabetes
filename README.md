@@ -11,5 +11,5 @@ Source: https://www.kaggle.com/uciml/pima-indians-diabetes-database/data
 ## Training Overview
 ![](/Images/BCA76185-D6FD-4AA4-8D4E-F484684D517E.png?raw=true)
 
-## Goal
->= 70% of accurancy of the model.
+## Confusion Matrix
+![](/Images/Unknown.jpg?raw=true)
